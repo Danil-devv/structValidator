@@ -47,7 +47,7 @@ v: struct {
     Len:    []string{"abcdefghjklmopqrstvu", "abcdefghjklmopqrstvu"},
     InInt:  [2]int{25, 20},
     InStr:  []string{"bar", "foo"},
-    MinInt: 15,
+    MinMaxInt: 15,
     LenStr: []string{"abcdefghjkl", "abcdefghjklmnopqrst"},
 },
 ```
